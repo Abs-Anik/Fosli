@@ -1,0 +1,88 @@
+header{
+	width: 100%;
+}
+
+.brand{
+	float: left;
+	width: 18%;
+}
+
+.brand h1{
+	display: inline;
+	margin-right: 190px;
+}
+
+.nav{
+	float: left;
+	width: 82%;
+
+}
+
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+.nav ul li {
+  float: left;
+
+  margin-right: 20px;
+}
+
+.nav ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+
+.nav ul li a:hover:not(.active) {
+  background-color: green;
+}
+
+table tr td{
+	background-color: white;
+	margin: 5px;
+}
+
+footer{
+	width: 99%;
+}
+
+footer .two ul{
+	list-style-type: none;
+}
+
+footer .two ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+footer .three ul{
+	list-style-type: none;
+}
+
+footer .three  a{
+	color: white;
+	text-decoration: none;
+	margin-left: 20px;
+
+	padding: 20px;
+}
+
+footer .four ul{
+	list-style-type: none;
+}
+
+footer .four a{
+	color: white;
+	text-decoration: none;
+	margin-left: 20px;
+
+	padding: 20px;
+}

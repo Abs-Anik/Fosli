@@ -1,0 +1,40 @@
+.fluid{
+	width: 400px;
+	height: 410px;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	margin-top: 50px;
+}
+
+input[type="text"],[type="password"],[type="email"]{
+	width: 380px;
+	border-radius: 8px;
+	padding: 10px;
+	font-size: 20px;
+	border-none;
+	box-sizing: border-box;
+	box-shadow: 3px 3px 3px;
+}
+
+
+
+img{
+	display: block;
+	margin: auto;
+}
+
+a{
+	width: 364px;
+	border-radius: 8px;
+	padding: 10px;
+	font-size: 25px;
+
+	box-shadow: 1px 1px 2px;
+	background-color: green;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+}
